@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tdzienniak.grumpyintellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tdzienniak.grumpyintellij.MyBundle
 
 class MyApplicationService {
 
